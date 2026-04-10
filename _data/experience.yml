@@ -1,0 +1,10 @@
+# Jobs
+- company: Silicon Labs
+  position: Associate Software Engineer — WebApps Team
+  duration: Jan 2023 &mdash; Present
+  summary: Quickly ramped up on Adobe Experience Manager and took on knowledge transition and deployment ownership. Ran end-to-end pipelines with Adobe Cloud Manager and Jenkins (including CAB docs and production releases). Contributed to a large-scale site rebrand through reusable AEM components from a shared base architecture. Improved performance by moving JavaScript logic into Sling Models, refactoring legacy WCMUsePojo code, and re-architecting a high-traffic component with scheduler-based API fetching and JCR caching. Optimized asset delivery with Adobe Dynamic Media (Scene7) and DAM; explored AI-assisted smart tagging; supported AEM 6.5 to 6.5 LTS readiness. Collaborates across teams with Agile practices, Jira, and Git; uses modern AI assistants to speed debugging and experimentation.
+
+- company: KreativIT
+  position: Front-End Developer
+  duration: Mar 2022 &mdash; Jun 2022
+  summary: Delivered a responsive one-page web application from requirements through deployment on Netlify, with stakeholder-driven UI/UX iterations and cross-device testing. Gained hands-on experience across the software development lifecycle—requirements, scalable frontend work, validation, cloud deployment, and post-release improvements.

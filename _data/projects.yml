@@ -1,0 +1,9 @@
+- project: WhatsApp-Driven Expense Automation System
+  role: n8n, Webhooks, API integration, automation
+  duration: Personal project
+  description: Built a conversational WhatsApp-based expense logging flow using Node.js and workflow automation, with webhook-driven events, structured persistence, and resilient asynchronous session handling.
+
+- project: Healthcare Decision Support Platform (POC)
+  role: Flutter, Claude, Google Stitch, Supabase
+  duration: In progress
+  description: Personal proof-of-concept focused on improving patient experience—reducing treatment indecision and improving access to informed care pathways through modern mobile development.
